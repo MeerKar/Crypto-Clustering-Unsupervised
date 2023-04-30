@@ -100,7 +100,7 @@ Plotted a line chart with all the inertia values computed with the different val
 
 With the help of elbow curve plotted the following questions are answered
 
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/116701851/235002319-46e1fdf6-90da-4bca-a838-b91e1fa307ee.png">
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/116701851/235370234-9f3b9e6c-eba5-437d-9f98-3b295c618d15.png">
 
 
 ### Cluster Cryptocurrencies with K-means Using the PCA Data
